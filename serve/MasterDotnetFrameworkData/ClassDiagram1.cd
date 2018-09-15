@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MasterDotnetFrameworkData.User" Collapsed="true">
+    <Position X="4.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAAAAAAAAAAAAQAAAAAAAACAQABAAABAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasterDotnetFrameworkData.TradingBranchTrade" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>TradingBranchTrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasterDotnetFrameworkData.Trading" Collapsed="true">
+    <Position X="1" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Trading.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasterDotnetFrameworkData.TradeLog" Collapsed="true">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TradeLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasterDotnetFrameworkData.Token" Collapsed="true">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAgAAwAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Token.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasterDotnetFrameworkData.BranchTrade" Collapsed="true">
+    <Position X="1" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAAAAAAAAAAAAQAAAAAAAAIAABBAAAAAAA=</HashCode>
+      <FileName>BranchTrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

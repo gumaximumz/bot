@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="MasterData.Trading">
+    <Position X="1.25" Y="7.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Trading.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="BranchTrades" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="MasterData.BranchTrade">
+    <Position X="9.5" Y="7.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAAAAAAAAAAAAQAAAAAAAAIAABBAAAAAAA=</HashCode>
+      <FileName>BranchTrade.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Trading" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="MasterData.TradingBranchTrade">
+    <Position X="5.25" Y="7.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>TradingBranchTrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasterData.Token">
+    <Position X="4.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Token.cs</FileName>
+      <NewMemberFileName>User.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasterData.User">
+    <Position X="1.25" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAAAAAAAAAAAAQAAAAAAAACAQABAAABAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Trading" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Tokens" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
